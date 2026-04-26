@@ -3,7 +3,7 @@ import 'screens/login_screen.dart';
 import 'screens/forgot_password_screen.dart';
 import 'screens/dashboard_screen.dart';
 
-//setup struktur aplikasi flutter
+// setup struktur aplikasi flutter
 void main() => runApp(const SulisApp());
 
 class SulisApp extends StatelessWidget {
