@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import '../models/user_model.dart';
 
-//menambahkan halaman dashboard
+// menambahkan halaman dashboard
 
 class DashboardScreen extends StatelessWidget {
   const DashboardScreen({super.key});
