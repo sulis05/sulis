@@ -1,20 +1,67 @@
-# sulis
+#  Sulis App
+
+## 📱 Deskripsi Aplikasi
+
+Sulis App adalah aplikasi mobile berbasis Flutter yang dibuat untuk memenuhi tugas UTS Mobile Programming. Aplikasi ini memiliki fitur login, dashboard, dan pengelolaan akun sederhana.
+
+---
+
+## ✨ Fitur Aplikasi
+
+* Halaman Login
+* Halaman Dashboard
+* Fitur Forgot Password
+* Navigasi antar halaman
+* UI sederhana menggunakan Flutter
+
+---
+
+## 🚀 Cara Menjalankan Aplikasi
+
+1. Clone repository
+
+```
+git clone https://github.com/sulis05/sulis.git
+```
+
+2. Masuk ke folder project
+
+```
+cd sulis
+```
+
+3. Install dependency
+
+```
+flutter pub get
+```
+
+4. Jalankan aplikasi
+
+```
+flutter run
+```
+
+---
+
+## 📸 Screenshot Aplikasi
+
+Tambahkan screenshot di folder assets/images lalu tampilkan di sini:
 
 
-A new Flutter project.
+![Login](assets/images/login.png)
+![Dashboard](assets/images/dashboard.png)
+![Forgot](assets/images/forgot.png)
 
-## Getting Started
+* Halaman Login
+* Halaman Dashboard
+* Halaman Forgot Password
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📦 Package yang Digunakan
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* flutter
+* google_fonts
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-UTS Mobile Programming
+// menambahkan README tugas UTS
