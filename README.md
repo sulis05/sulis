@@ -1,5 +1,5 @@
 # sulis
-<<<<<<< HEAD
+
 
 A new Flutter project.
 
@@ -18,4 +18,3 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 UTS Mobile Programming
->>>>>>> 298a1d25eaad6d97170c6cade0e0aa6e5f8e34e6
