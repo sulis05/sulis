@@ -5,7 +5,7 @@ import '../widgets/bg_circle.dart';
 import '../widgets/custom_text_field.dart';
 import '../widgets/gradient_button.dart';
 
-//menambahkan halaman login
+// menambahkan halaman login
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
