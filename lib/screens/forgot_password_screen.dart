@@ -3,7 +3,7 @@ import '../utils/validators.dart';
 import '../widgets/custom_text_field.dart';
 import '../widgets/gradient_button.dart';
 
-//menambahkan fitur forgot password
+// menambahkan fitur forgot password
 class ForgotPasswordScreen extends StatefulWidget {
   const ForgotPasswordScreen({super.key});
 
